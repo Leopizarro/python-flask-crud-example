@@ -1,0 +1,10 @@
+# General (macOS)
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VENV folder
+venv/
+
+# Flask db instance
+instance/
