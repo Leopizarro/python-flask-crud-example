@@ -9,5 +9,6 @@ The app consists of a backend that stores projects information, which can includ
 # How to run the app:
 
 To set up the database, run: flask --app flaskr init-db
+
 To run the app, run: flask --app flaskr run --debug
 
