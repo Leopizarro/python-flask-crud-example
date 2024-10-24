@@ -6,5 +6,8 @@
 # VENV folder
 venv/
 
+# __pycache__
+flaskr/__pycache__/
+
 # Flask db instance
 instance/
